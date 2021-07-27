@@ -1,0 +1,15 @@
+header {
+    max-width: 1000px;
+    text-align: center;
+}
+h1{
+    background-color: orchid;
+    margin-bottom: 40px;
+    text-align: center;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          ;
+}
+
+p {
+    color: peru;
+    text-transform: uppercase;
+    font-size: 14px;
+}
